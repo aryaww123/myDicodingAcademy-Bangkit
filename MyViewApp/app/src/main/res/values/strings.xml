@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">MyView-App</string>
+    <string name="phone_name">Jenis Iphone</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="berhasil_pindah">BERHASIL PINDAH ACTIVITY</string>
+    <string-array name="data_name">
+        <item>IPhone 12</item>
+        <item>IPhone 12 Pro</item>
+        <item>IPhone 12 ProMax</item>
+        <item>IPhone 13</item>
+        <item>IPhone 13 Pro</item>
+        <item>IPhone 13 ProMax</item>
+        <item>IPhone 14</item>
+        <item>IPhone 14 Pro</item>
+        <item>IPhone 14 ProMax</item>
+        <item>IPhone 15</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>The iPhone 12 is a new iPhone model developed by Apple Inc. It is part of a device family that was announced during a special event on October 13, 2020 to succeed the iPhone 11 line. Additional iPhone 12 models include the downsized iPhone 12 mini, the high-end 12 Pro, and larger 12 Pro Max. The phones became available for preorder on October 16; the iPhone 12 and 12 Pro began shipping on October 23, 2020.[1]
+        \n\n
+        Like the rest of the iPhone 12 line, it is powered by the six-core Apple A14 "Bionic" processor and features Ceramic Shield on the front screen and back panel for 4x improved drop performance over previous models.[2][3] It supports 5G networks for improved speed (up to 4Gbps) with the ability to automatically switch to LTE as needed to conserve battery life. The wireless changing coil inside the phone includes MagSafe for magnetic alignment and attachment of chargers and accessories. The updated Lightning connector supports faster charging though USB-C.[1][4]</item>
+        <item>The iPhone 12 Pro is a high-end smartphone that was announced by Apple on October 13, 2020 as part of its iPhone 12 line to succeed the iPhone 11 Pro. It was released on October 23.[2]
+        \n\n
+        Like the rest of the iPhone 12 line, it is powered by the six-core Apple A14 processor and features Ceramic Shield on the front screen and back panel for 4x improved drop performance over previous models.[3][4] It supports 5G networks for improved speed (up to 4Gbps) with the ability to automatically switch to LTE as needed to conserve battery life. The wireless changing coil inside the phone includes MagSafe for magnetic alignment and attachment of chargers and accessories. The updated Lightning connector supports faster charging though USB-C.[2][5]</item>
+        <item>The iPhone 12 Pro Max is a large high-end smartphone introduced by Apple on October 13, 2020 as part of its iPhone 12 line to succeed the iPhone 11 Pro Max. It was released on November 13, 2020.[2]
+        \n\n
+        Like the rest of the iPhone 12 line, it is powered by the six-core Apple A14 processor and features Ceramic Shield on the front screen and back panel for 4x improved drop performance over previous models.[3][4] It supports 5G networks for improved speed (up to 4Gbps) with the ability to automatically switch to LTE as needed to conserve battery life. The wireless changing coil inside the phone includes MagSafe for magnetic alignment and attachment of chargers and accessories. The updated Lightning connector supports faster charging though USB-C.[2][5]</item>
+        <item>The iPhone 13 is a line of iPhones developed by Apple Inc. The next generation models were announced by Apple in a special event on September 14, 2021.[1] It became available for pre-order on September 17 and shipped on September 24, 2021 in five colors: (PRODUCT)RED, starlight, midnight, blue, and pink.[2] An additional green version was released on March 8, 2022.[3]
+        \n\n
+        Like the rest of the iPhone 13 line, it is powered by the six-core Apple A15 "Bionic" processor and features Ceramic Shield on the front screen and back panel. It is splash, water, and dust resistant.[4] It supports 5G networks for improved speed (up to 4Gbps) with the ability to automatically switch to LTE as needed to conserve battery life. The wireless changing coil inside the phone includes MagSafe for magnetic alignment and attachment of chargers and accessories. The Lightning connector supports faster charging though USB-C.[1]</item>
+        <item>The iPhone 13 Pro is a new high-end smartphone that was announced by Apple on September 14, 2021 as part of its iPhone 13 line to succeed the iPhone 12 Pro. It became available for pre-order on September 17 and shipped on September 24, 2021.[1]
+        \n\n
+        Like the rest of the iPhone 13 line, it is powered by the six-core Apple A15 processor, but with the addition of a 5th GPU core. It is splash, water, and dust resistant.[2] It supports 5G networks for improved speed (up to 4Gbps) with the ability to automatically switch to LTE as needed to conserve battery life. The wireless changing coil inside the phone includes MagSafe for magnetic alignment and attachment of chargers and accessories. The Lightning connector supports faster charging though USB-C.[1]</item>
+        <item>The iPhone 13 Pro Max is a large high-end smartphone introduced by Apple on September 14, 2021 as part of its iPhone 13 line to succeed the iPhone 12 Pro Max. It became available for pre-order on September 17 and shipped on September 24, 2021.
+            \n\n
+            [1]The Pro version features a rear-facing triple camera system (vs. dual in standard models) with ultra wide, wide, and telephoto lens, along with a LiDAR sensor for recording distance. The stainless steel case is available in 4 different color finishes: Sierra blue, silver, gold, and graphite. The Super Retina XDR display features a 6.7-inch OLED screen with a 2,000,000:1 contrast ratio and a resolution of 2778 x 1284 at 458ppi. The front screen and back panel are protected by Ceramic Shield for resistance to cracking.[1]</item>
+        <item>The iPhone 14 is a line of iPhones developed by Apple Inc. It was announced in a special event titled "Far out" on September 7, 2022, along with a larger iPhone 14 Plus variant and the premium iPhone 14 Pro and 14 Pro Max. Pre-orders began on September 9 and the iPhone 14 Pro became available in stores on September 16, 2022.
+            \n\n
+            [1] Apple released a yellow version on March 14, 2023.[2]The iPhone 14 and 14 Plus feature the 5 GPU version of the Apple A15 SoC previously used in iPhone 13 Pro models. Along with existing 5G service, it also adds Emergency SOS via satellite for areas where ground-based wireless services may not be available. 2 years of emergency satellite service are included free with the purchase of new iPhone 14 models. Crash Detection senses sudden changes in sound levels, cabin pressure, direction, and speed up to 256 Gs to determine whether a severe crash has occurred and automatically call Emergency SOS if the user does not respond.[3]</item>
+        <item>The iPhone 14 Pro is a high-end model of the iPhone 14 line developed by Apple Inc. It was announced in a special event titled "Far out" on September 7, 2022. Pre-orders began on September 9 and became available in stores on September 16, 2022.[1].
+            \n\n
+            The iPhone 14 Pro features the new Apple A16 SoC with a new Display Engine to support its always-on display. The "notch" was also replaced by a hole-punched display which is part of a new feature called Dynamic Island. It also features a larger new 48 megapixel main camera and brighter redesigned flash. The new Photonic Engine also improves low-light performance. Like other iPhone 14 models, it adds Emergency SOS via satellite for areas where ground-based wireless services may not be available. 2 years of emergency satellite service are included free with the purchase of new iPhone 14 models. Crash Detection senses sudden changes in sound levels, cabin pressure, direction, and speed up to 256 Gs to determine whether a severe crash has occurred and automatically call Emergency SOS if the user does not respond.[2]</item>
+        <item>The iPhone 14 Pro Max is a large high-end model of the iPhone 14 line developed by Apple Inc. It was announced in a special event titled "Far out" on September 7, 2022. Pre-orders began on September 9 and became available in stores on September 16, 2022.[1]
+            \n\n
+            The iPhone 14 Pro Max features the new Apple A16 SoC with a new Display Engine to support its always-on display. The "notch" was also replaced by a hole-punched display which is part of a new feature called Dynamic Island. It also features a larger new 48 megapixel main camera and brighter redesigned flash. The new Photonic Engine also improves low-light performance. Like other iPhone 14 models, it adds Emergency SOS via satellite for areas where ground-based wireless services may not be available. 2 years of emergency satellite service are included free with the purchase of new iPhone 14 models. Crash Detection senses sudden changes in sound levels, cabin pressure, direction, and speed up to 256 Gs to determine whether a severe crash has occurred and automatically call Emergency SOS if the user does not respond.[2]</item>
+        <item>The iPhone 15 is a line of iPhones developed by Apple Inc. It was announced in a special event on September 12, 2023, along with a larger iPhone 15 Plus variant. It became available for pre-order on September 12, and will become available in store on September 22, 2023 in five colors: blue, pink, yellow, green and black.Industry reports indicate that Apple will be including the Dynamic Island in all models of this generations lineup, with the front-facing camera package being provided by several manufacturers.[1]
+            \n\n
+            Leaked CAD data intended for case manufacturers indicate that the new phones will be approximately the same size as the previous years models, but refined with more curved edges and a slightly thicker "camera bump" with lens that protrude slightly less.[2][3] The Pro model screens are reported to have a narrower bezel boundary between the displayed picture and case edge.[4]</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/iphone12</item>
+        <item>@drawable/ip12pro_edit</item>
+        <item>@drawable/ip12promax_edit</item>
+        <item>@drawable/ip13_edit</item>
+        <item>@drawable/ip13pro_edit</item>
+        <item>@drawable/ip13promax_cropped</item>
+        <item>@drawable/ip14</item>
+        <item>@drawable/ip14pro</item>
+        <item>@drawable/ip14promax_edit</item>
+        <item>@drawable/ip15</item>
+    </integer-array>
+</resources>

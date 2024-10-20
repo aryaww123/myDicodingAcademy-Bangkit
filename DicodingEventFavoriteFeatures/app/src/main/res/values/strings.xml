@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DicodingEvent2</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="register">Register</string>
+    <string name="cover">cover</string>
+    <string name="try_again">Coba Lagi</string>
+    <string name="imgDescription" />
+    <string name="Favorites">Favorites</string>
+    <string name="setting">Setting</string>
+</resources>
